@@ -25,6 +25,7 @@
   + 可以先下載 [`TranslationImprover_Chrome83_20200523.zip`](https://git.io/Jf29T) 試試看
   + 如果不行再試試看 [`TranslationImprover_Chrome81_20200523.zip`](https://git.io/Jf29U)
   + 參考：[如何確認 Chrome 瀏覽器的版本](https://tinyurl.com/y44kw7z4)
+  + 如果使用 Firefox 可以下載[這個版本](https://git.io/Jf27j)
 + 點擊 `main.exe` 執行
   + 第一次執行可能會失敗，多嘗試幾次
 
