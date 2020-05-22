@@ -6,6 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 def main():
     template = 'This translation is culturally inappropriate. The correct translation should be %s. I selected Traditional Chinese, which should translate into phrases used in Taiwan, but it gave me phrases used in China (Simplified Chinese).'
+    url = 'https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=%s'
     data = load_links('./link.txt')
     driver = Chrome('./chromedriver.exe')
     driver.maximize_window()
@@ -15,7 +16,7 @@ def main():
         for d in data:
             if d[3].lower() == 'ok':
                 continue
-            driver.get(d[4])
+            driver.get(url % d[0])
             if first:
                 driver.find_element_by_class_name('tlid-dismiss-button').click()
             driver.find_element_by_class_name('tlid-send-feedback-link').click()
