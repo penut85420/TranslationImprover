@@ -1,8 +1,12 @@
 accumulate	累積	積累	未改
-activation	啟動	激活	未改
-AI/artificial intelligence	人工智慧	人工智能	未改
+activate software	啟用軟體	激活軟件	未改
+activation	啟動	激活軟件	未改
+AI	人工智慧	人工智能	未改
+anime	動畫	動漫	未改
 artificial intelligence	人工智慧	人工智能	未改
 Australia	澳洲	澳大利亞	未改
+avocado	酪梨	鱷梨	未改
+Bach	巴哈	巴赫	未改
 ball pen	原子筆	原珠筆	未改
 bandwidth	頻寬	帶寬	未改
 bassoon	低音管/巴松管	大管	OK
@@ -10,11 +14,15 @@ Beatles	披頭四樂隊	披頭士樂隊	未改
 Benz	賓士	奔馳	未改
 Berlioz	白遼士	柏遼茲	未改
 billiard	撞球	台球	未改
+bit rate	位元速率	比特率	未改
 broccoli	花椰菜	西蘭花	未改
 butter	奶油	牛油/黃油	未改
+by	透過	通過	未改
 cabbage	高麗菜	捲心菜	未改
 cauliflower	花椰菜/白花菜	菜花	未改
 cd	光碟	光盤	未改
+cd drive	光碟機	光盤驅動器	未改
+chip	晶片	芯片	未改
 computer	電腦	計算機	OK
 condom	保險套	避孕套 / 安全套	未改
 contract	合約	合同	未改
@@ -27,6 +35,7 @@ demonstrate	示範	演示	未改
 department store	百貨公司	百貨商店	未改
 diode	二極體	二極管	未改
 Donald Trump	唐納·川普	唐納德·特朗普	未改
+Dubai	杜拜	迪拜	未改
 egg tart	蛋塔	蛋撻	未改
 endoscope	內視鏡	內窺鏡	未改
 face soap	洗面乳	洗面奶	未改
@@ -35,11 +44,12 @@ Festival de Cannes	坎城影展	戛納電影節	未改
 fever	發燒	發熱	未改
 fireworks	煙火	煙花	未改
 firmware	韌體	固件	未改
-floppy disk	軟碟片	軟盤	未改
+floppy disk	磁碟片	軟盤	未改
 football	美式足球	足球	未改
+French Horn	法國號	圓號	未改
 frozen dumplings	冷凍水餃	冷凍餃子	未改
-Full HD		全高清	未改
-gamepad	遊戲手把	遊戲手柄	未改
+Full HD	超高畫質	全高清	未改
+gamepad	遊戲搖桿	遊戲手柄	未改
 Ghidorah	基多拉	吉多拉	未改
 Godzilla	哥吉拉	哥斯拉	未改
 good afternoon	午安	下午好	未改
@@ -47,9 +57,12 @@ good morning	早安	早上好	未改
 hacker	駭客	黑客	未改
 hairdryer	吹風機	電吹風	未改
 hard disk	硬碟	硬盤	未改
+hard drive	硬碟	硬盤	未改
+hardware	硬體	硬件	未改
 Hayden 	海頓	海登	未改
 HD	高畫質	高清	OK
 high-end	高階	高端的	未改
+information	資訊	信息	未改
 instant noodle	泡麵	方便麵	未改
 integrated	整合	集成	未改
 internet	網際網路	互聯網	未改
@@ -60,13 +73,15 @@ laser	鐳射	激光	未改
 level	水準	水平	未改
 Linkin Park	聯合公園	林肯公園	未改
 low-end	低階	低端的	未改
+memory card	記憶卡	存儲卡	未改
 menu	選單	菜單	未改
 message	訊息	信息	未改
+Michael Jackson	麥克傑克森	邁克爾杰克遜	未改
 Monet 	莫內	莫奈	未改
 Mothra	摩斯拉	莫斯拉	未改
-motor	發動機	發動機	未改
+motor	馬達	發動機	未改
 New Zealand	紐西蘭	新西蘭	未改
-night snack	宵夜	夜消	未改
+night snack	宵夜	夜宵	未改
 Nixie tube	輝光管	數碼管	未改
 optimize	最佳化	優化	未改
 Picasso	畢卡索	畢加索	未改
@@ -78,7 +93,8 @@ potato	馬鈴薯	土豆	未改
 potato chips	洋芋片	土豆片 / 薯片	未改
 power bank	行動電源	移動電源	未改
 President Tsai Ing-Wen	總統蔡英文	蔡英文	未改
-printer	列表機	打印機	未改
+print	列印	打印機	未改
+printer	印表機	打印機	未改
 program	程式	程序	未改
 Putin	普丁	普京	未改
 quality	品質	質量	未改
@@ -87,15 +103,19 @@ rap	饒舌樂	說唱	未改
 rapper	饒舌歌手	說唱歌手	未改
 resolution	解析度	分辨率	OK
 Rodan	拉頓	羅丹	未改
+roller coaster	雲霄飛車	過山車	未改
 rubik's cube	魔術方塊	魔方	未改
-rumor	謠言	謠言	OK
+salad	沙拉	色拉	Ok
 salmon	鮭魚	三文魚	未改
 sanitary napkin	衛生棉	衛生巾	未改
 Saudi Arabia	沙烏地阿拉伯	沙特阿拉伯	未改
 screen	螢幕	屏幕	未改
+SD	標準畫質	標清	未改
 smart tv	智慧電視	智能電視	未改
 software	軟體	軟件	未改
 Spider-Man	蜘蛛人	蜘蛛俠	未改
+square meter	平方公尺	平米	未改
+Star Craft	星海爭霸	星際爭霸	未改
 Star Wars	星際大戰	星球大戰	未改
 steak	牛排	牛扒	未改
 Sydney	雪梨	悉尼	未改
@@ -109,14 +129,11 @@ Trump	川普	特朗普	未改
 Tsai Ing-Wen President	蔡英文總統	蔡英文	未改
 tuba	低音號	大號	未改
 tuna	鮪魚	金槍魚	未改
-vacuum cleaner	吸塵器		OK
+uninstall	解除安裝	卸載	未改
+vacuum cleaner	吸塵器	除塵器	OK
 Van Gogh 	梵谷	梵高	未改
+Volkswagen	福斯汽車	大眾汽車	未改
 waiter	服務生	服務員	未改
-waitress	"女服務生	"	女服務員	未改
+waitress	女服務生 	女服務員	未改
 webcam	網路攝影機	攝像頭	未改
 yogurt	優酪乳 / 優格	酸奶	未改
-salad	沙拉	色拉	Ok
-Dubai	杜拜	迪拜	未改
-square meter	平方公尺	平米	未改
-hardware	硬體	硬件	未改
-active software	啟用軟體	激活軟件	未改
