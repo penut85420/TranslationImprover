@@ -1,14 +1,20 @@
 import os
+import pickle
 import time
+import json
+import requests
+
 from selenium.webdriver import Chrome, Firefox
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+
 
 def main():
     template = 'This translation is culturally inappropriate. The correct translation should be %s. I selected Traditional Chinese, which should translate into phrases used in Taiwan, but it gave me phrases used in China (Simplified Chinese).'
     url = 'https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=%s'
-    data = load_links('./link.txt')
+    data = get_sheet()
+
     if os.path.exists('./chromedriver.exe'):
         driver = Chrome()
     else:
@@ -52,9 +58,8 @@ def main():
 
     print('Done!')
 
-def load_links(path):
-    with open(path, 'r', encoding='UTF-8') as f:
-        return [line.strip().split('\t') for line in f]
+def get_sheet():
+    return json.loads(requests.get('http://nlp4.cse.ntou.edu.tw:8080/').content)
 
 if __name__ == "__main__":
     main()
