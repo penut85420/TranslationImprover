@@ -1,0 +1,18 @@
+day shift	日班	白班	未改	https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=day shift
+default	預設	默認	未改	https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=default
+demonstrate	示範	演示	未改	https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=demonstrate
+fireworks	煙火	煙花	未改	https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=fireworks
+good afternoon	午安	下午好	未改	https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=good afternoon
+good morning	早安	早上好	未改	https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=good morning
+internet	網路	互聯網	未改	https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=internet
+level	水準	水平	未改	https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=level
+message	訊息	信息	未改	https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=message
+night snack	宵夜	夜消	未改	https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=night snack
+optimize	最佳化	優化	未改	https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=optimize
+rumor	謠言	謠言	OK	https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=rumor
+transfer money	轉帳	划款	未改	https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=transfer money
+high-end	高階	高端的	未改	https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=high-end
+low-end	低階	低端的	未改	https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=low-end
+contract	合約	合同	未改	https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=contract
+activation	啟動	激活	未改	https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=activation
+quality	品質	質量	未改	https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=quality
