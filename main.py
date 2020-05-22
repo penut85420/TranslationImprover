@@ -19,7 +19,8 @@ def main():
             driver.get(url % d[0])
             if first:
                 driver.find_element_by_class_name('tlid-dismiss-button').click()
-            driver.find_element_by_class_name('tlid-send-feedback-link').click()
+            element = driver.find_element_by_class_name('tlid-send-feedback-link')
+            driver.execute_script("arguments[0].click();", element)
             n = len(driver.find_elements_by_tag_name('iframe'))
             for i in reversed(range(n)):
                 driver.switch_to.frame(i)
@@ -32,7 +33,6 @@ def main():
                     break
                 driver.switch_to.parent_frame()
             time.sleep(1)
-            # driver.find_element_by_xpath('//button[@type="button"]').click()
             driver.find_element_by_class_name('tlid-suggest-edit-button').click()
             driver.find_element_by_class_name('contribute-target').clear()
             driver.find_element_by_class_name('contribute-target').send_keys(d[1])
