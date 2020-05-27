@@ -24,11 +24,11 @@
 ## 使用方法
 + [下載本程式](https://git.io/Jf2Sj)的壓縮檔，將其解壓縮到資料夾內
   + Chrome 使用者：
-    + 可以先下載 [Chrome83](https://git.io/Jf2bR) 版本試試看
-    + 如果不行再試試看 [Chrome81](https://git.io/Jf2bB) 的版本
+    + 可以先下載 [Chrome83](https://git.io/JfrGk) 版本試試看
+    + 如果不行再試試看 [Chrome81](https://git.io/JfrGJ) 的版本
     + 參考：[如何確認 Chrome 瀏覽器的版本](https://tinyurl.com/y44kw7z4)
   + Firefox 使用者：
-    + 可以下載[這個版本](https://git.io/Jf2b0)
+    + 可以下載[這個版本](https://git.io/JfrGI)
   + 如果以上這些版本的程式無法順利運作，請嘗試看看[舊版程式](https://git.io/Jf2bu)
 + 點擊 `main.exe` 執行
   + 第一次執行可能會失敗，現階段請多嘗試幾次
