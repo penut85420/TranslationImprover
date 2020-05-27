@@ -60,7 +60,7 @@ def main():
     print('Done!')
 
 def get_sheet():
-    content = requests.get('http://gtig.ddns.net/').content
+    content = requests.get('    ').content
     return json.loads(content)
 
 if __name__ == "__main__":
