@@ -29,7 +29,7 @@ def main():
     if os.path.exists(chrome_driver_path):
         driver = Chrome(chrome_driver_path)
     elif os.path.exists(firefox_driver_path):
-        driver = Firefox()
+        driver = Firefox(executable_path=firefox_driver_path)
 
     if driver is None:
         sys.stderr.write('No webdriver found.\n')
