@@ -22,8 +22,8 @@ def main():
     def exists(path):
         return os.path.exists(path)
 
-    chrome_driver_path = os.path.join(dirname, 'chromedriver' + '.exe' if sys.platform == 'win32' else '')
-    firefox_driver_path = os.path.join(dirname, 'geckodriver' + '.exe' if sys.platform == 'win32' else '')
+    chrome_driver_path = os.path.join(dirname, 'chromedriver')
+    firefox_driver_path = os.path.join(dirname, 'geckodriver')
 
     driver = None
     if os.path.exists(chrome_driver_path):
